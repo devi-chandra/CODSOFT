@@ -46,3 +46,11 @@ CODSOFT/
 ├── password generator.py
 ├── rock paper scissors games.py
 └── README.md
+
+👨‍💻 Author
+
+J DEVI
+
+⭐ Note
+
+These projects were created as internship tasks and learning exercises.
